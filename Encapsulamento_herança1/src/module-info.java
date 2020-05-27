@@ -1,0 +1,2 @@
+module encapsulamento_herança {
+}
